@@ -82,5 +82,5 @@ Pune University | CGPA: 7.54 | Year: 2025
 
 ## 📫 Connect With Me
 
-- LinkedIn: [add-your-linkedin-link](https://linkedin.com/in/akshada-ringe-490762306)
+- LinkedIn: (https://linkedin.com/in/akshada-ringe-490762306)
 - Email: ringeakshada10@gmail.com
