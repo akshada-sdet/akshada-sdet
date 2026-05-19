@@ -123,22 +123,6 @@
 
 ---
 
-# 📚 Testing Skills
-
-✅ Manual Testing
-✅ Functional Testing
-✅ Regression Testing
-✅ UI Testing
-✅ Cross-Browser Testing
-✅ API Testing
-✅ Automation Testing
-✅ Selenium WebDriver
-✅ Test Case Writing
-✅ Test Case Execution
-✅ Defect Tracking
-✅ Agile & Scrum
-✅ SDLC & STLC
----
 <h3>✨ Quote</h3>
 
 <p>“Quality is never an accident; it is always the result of intelligent effort.”</p>
