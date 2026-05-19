@@ -1,86 +1,15 @@
-# Hi, I'm Akshada Ringe 👋
 
-## QA Tester | Manual & Automation Testing
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshadaringe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ringeakshada10@gmail.com) 
 
-Detail-oriented QA Tester with experience in Manual Testing and Selenium Automation Testing. Skilled in test case execution, defect tracking using JIRA, and automation tools like Selenium WebDriver, Java, TestNG, and Maven.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=akshada-sdet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=akshada-sdet&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=akshada-sdet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=akshada-sdet&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔧 Technical Skills
-
-### Manual Testing
-- Functional Testing
-- Regression Testing
-- UI Testing
-- Test Case Writing
-- Test Case Execution
-
-### Automation Testing
-- Selenium WebDriver
-- TestNG
-- Maven
-- Page Object Model (POM)
-
-### Programming
-- Java
-
-### API Testing
-- Postman
-
-### Database
-- MySQL
-- SQL Server
-
-### Bug Tracking Tool
-- JIRA
-
-### Other Tools
-- MS Excel
-- BDD Cucumber
-- Git & GitHub
-
-## 💼 Internship Experience
-
-### Automation Tester Intern – Seven Mentor Institute
-*Sept 2025 – March 2026*
-
-- Automated repetitive test scenarios using Selenium WebDriver with Java
-- Created reusable automation scripts using TestNG and Maven
-- Performed Functional, Regression, UI, and Cross-browser Testing
-- Reported and tracked defects using JIRA
-- Worked in Agile environment and maintained testing reports
-- Reduced manual testing efforts by 60%
-
-## 📌 Projects
-
-### E-commerce Web Application Testing
-- Automated Login, Product Search, Add to Cart, Wishlist, and Checkout modules
-- Used Selenium WebDriver with Java
-- Implemented POM framework using TestNG and Maven
-- Achieved around 85% automation coverage
-
-### Online Banking Application Testing
-- Created and executed test cases for banking modules
-- Applied Boundary Value Analysis and Equivalence Partitioning
-- Performed Functional, UI, Regression, and Integration Testing
-- Improved testing efficiency by 35%
-
-### Neostox Project
-- Automated Signup, Login, and Logout functionalities
-- Developed automation framework using Selenium, TestNG, and Maven
-- Worked in Agile methodology with JIRA tracking
-
-## 🎓 Education
-
-Bachelor of Engineering (Computer Engineering)  
-Pune University | CGPA: 7.54 | Year: 2025
-
-## 📜 Certifications
-
-- Automation Testing – Seven Mentor Institute
-- Python Workshop – A2Z IT HUB
-
-## 📫 Connect With Me
-
-- LinkedIn: (https://linkedin.com/in/akshada-ringe-490762306)
-- Email: ringeakshada10@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
